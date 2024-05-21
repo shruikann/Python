@@ -1,0 +1,17 @@
+Index: Exercicios/Desafio03.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>num1 = input ('Digite um número')\r\nnum2 = input ('Digite um número')\r\nresult = num1 + num2\r\n\r\nprint ('A soma de' ,num1, 'e', num2, 'é igual a', result)\r\n
+===================================================================
+diff --git a/Exercicios/Desafio03.py b/Exercicios/Desafio03.py
+--- a/Exercicios/Desafio03.py	
++++ b/Exercicios/Desafio03.py	
+@@ -1,5 +1,5 @@
+-num1 = input ('Digite um número')
+-num2 = input ('Digite um número')
++num1 = int(input('Digite um número'))
++num2 = int(input('Digite um número'))
+ result = num1 + num2
+ 
+-print ('A soma de' ,num1, 'e', num2, 'é igual a', result)
++print('A soma de', num1, 'e', num2, 'é igual a', result)
