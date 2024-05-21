@@ -1,0 +1,10 @@
+n1 = int(input('Um valor'))
+n2 = int(input('Outro valor'))
+
+print('Soma:{}'.format(n1+n2))
+print('Subtração:{}'.format(n1-n2))
+print('Multiplicação:{}'.format(n1*n2))
+print('Divisão:{}'.format(n1/n2))
+print('Potência:{}'.format(n1**n2))
+print('Divisão inteira:{}'.format(n1//n2))
+print('Módulo:{}'.format(n1%n2))
