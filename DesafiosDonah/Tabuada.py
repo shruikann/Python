@@ -8,8 +8,6 @@ if inicio > final:
     inicio = final
     final = temp
 
-    print('Inicio {}'.format(inicio))
-    print('Final {}'.format(final))
 for count in range(inicio, final+1):
     conta =tabuada * count
     print('{} x {} = {}'.format(tabuada, count, conta))

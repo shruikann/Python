@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="atualizacao aula 7">
-      <change afterPath="$PROJECT_DIR$/DesafiosDonah/Tabuada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="TabuadaDonah">
+      <change beforePath="$PROJECT_DIR$/DesafiosDonah/Tabuada.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesafiosDonah/Tabuada.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject1" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -251,6 +250,7 @@
     <MESSAGE value="atualizacao" />
     <MESSAGE value="atualizacao aula 6" />
     <MESSAGE value="atualizacao aula 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizacao aula 7" />
+    <MESSAGE value="TabuadaDonah" />
+    <option name="LAST_COMMIT_MESSAGE" value="TabuadaDonah" />
   </component>
 </project>
