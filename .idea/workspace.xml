@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="TabuadaDonahComIF">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio013.py" afterDir="false" />
+    <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="atualizaçã desafios">
+      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio015.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio08.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio09.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio009.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject1" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +71,8 @@
     "Python.Desafio011.executor": "Run",
     "Python.Desafio012.executor": "Run",
     "Python.Desafio013.executor": "Debug",
+    "Python.Desafio014.executor": "Debug",
+    "Python.Desafio015.executor": "Debug",
     "Python.Desafio02.executor": "Run",
     "Python.Desafio03.executor": "Debug",
     "Python.Desafio04.executor": "Run",
@@ -89,29 +98,7 @@
       <recent name="C:\Users\Deivison\PycharmProjects\CursoEmVideo\Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio013">
-    <configuration name="Desafio010" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoEmVideo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Deivison\PycharmProjects\CursoEmVideo\Exercicios\Desafio010.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Desafio015">
     <configuration name="Desafio011" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
@@ -178,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tabuada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +174,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DesafiosDonah" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DesafiosDonah/Tabuada.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio014.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Desafio015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio015.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio015" />
+        <item itemvalue="Python.Desafio014" />
         <item itemvalue="Python.Desafio013" />
         <item itemvalue="Python.Desafio012" />
         <item itemvalue="Python.Desafio011" />
-        <item itemvalue="Python.Desafio010" />
-        <item itemvalue="Python.Tabuada" />
       </list>
     </recent_temporary>
   </component>
@@ -260,6 +269,7 @@
     <MESSAGE value="atualizacao aula 7" />
     <MESSAGE value="TabuadaDonah" />
     <MESSAGE value="TabuadaDonahComIF" />
-    <option name="LAST_COMMIT_MESSAGE" value="TabuadaDonahComIF" />
+    <MESSAGE value="atualizaçã desafios" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizaçã desafios" />
   </component>
 </project>
