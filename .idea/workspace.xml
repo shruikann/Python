@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="atualizaçã0 desafios">
-      <change afterPath="$PROJECT_DIR$/TestesAulas/aula08a.py" afterDir="false" />
+    <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="aula08">
+      <change afterPath="$PROJECT_DIR$/Exercicios/Desaafio020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/pianesque-149566.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject1" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1" afterDir="false" />
     </list>
@@ -58,11 +64,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ConversorMoedas.executor": "Debug",
+    "Python.Desaafio020.executor": "Debug",
     "Python.Desafio011.executor": "Run",
     "Python.Desafio012.executor": "Run",
     "Python.Desafio013.executor": "Debug",
     "Python.Desafio014.executor": "Debug",
     "Python.Desafio015.executor": "Debug",
+    "Python.Desafio016.executor": "Debug",
+    "Python.Desafio017.executor": "Debug",
+    "Python.Desafio018.executor": "Debug",
+    "Python.Desafio019.executor": "Debug",
     "Python.Desafio02.executor": "Run",
     "Python.Desafio03.executor": "Debug",
     "Python.Desafio04.executor": "Run",
@@ -89,8 +100,8 @@
       <recent name="C:\Users\Deivison\PycharmProjects\CursoEmVideo\Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.aula08a">
-    <configuration name="Desafio012" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Desafio021">
+    <configuration name="Desaafio020" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio012.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desaafio020.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio013.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio017.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio014" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio018" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio014.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio019" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +180,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio015.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio019.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="aula08a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Desafio021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestesAulas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestesAulas/aula08a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio021.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.aula08a" />
-        <item itemvalue="Python.Desafio015" />
-        <item itemvalue="Python.Desafio014" />
-        <item itemvalue="Python.Desafio013" />
-        <item itemvalue="Python.Desafio012" />
+        <item itemvalue="Python.Desafio021" />
+        <item itemvalue="Python.Desaafio020" />
+        <item itemvalue="Python.Desafio019" />
+        <item itemvalue="Python.Desafio018" />
+        <item itemvalue="Python.Desafio017" />
       </list>
     </recent_temporary>
   </component>
@@ -262,6 +273,7 @@
     <MESSAGE value="TabuadaDonahComIF" />
     <MESSAGE value="atualizaçã desafios" />
     <MESSAGE value="atualizaçã0 desafios" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizaçã0 desafios" />
+    <MESSAGE value="aula08" />
+    <option name="LAST_COMMIT_MESSAGE" value="aula08" />
   </component>
 </project>
