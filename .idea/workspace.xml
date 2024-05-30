@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="atualização exercicios">
-      <change afterPath="$PROJECT_DIR$/DesafiosDonah/DessafioD02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio025.py" afterDir="false" />
+    <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="atualização ex donah">
+      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio026.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject1" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +74,7 @@
     "Python.Desafio023.executor": "Debug",
     "Python.Desafio024.executor": "Debug",
     "Python.Desafio025.executor": "Run",
+    "Python.Desafio026.executor": "Debug",
     "Python.Desafio03.executor": "Debug",
     "Python.Desafio04.executor": "Run",
     "Python.Desafio05.executor": "Debug",
@@ -103,29 +102,7 @@
       <recent name="C:\Users\Deivison\PycharmProjects\CursoEmVideo\Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.DessafioD02">
-    <configuration name="Desafio022" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoEmVideo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio022.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Desafio026">
     <configuration name="Desafio023" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
@@ -192,6 +169,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Desafio026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio026.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DessafioD02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
@@ -216,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Desafio026" />
         <item itemvalue="Python.DessafioD02" />
         <item itemvalue="Python.Desafio025" />
         <item itemvalue="Python.Desafio024" />
         <item itemvalue="Python.Desafio023" />
-        <item itemvalue="Python.Desafio022" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +279,8 @@
     <MESSAGE value="atualizaçãoDesafios" />
     <MESSAGE value="atualizaçãoAula" />
     <MESSAGE value="atualização exercicios" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualização exercicios" />
+    <MESSAGE value="atualização ex donah" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização ex donah" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
