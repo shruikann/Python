@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="atualização desafios">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestesAulas/aula10a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DesafiosDonah/DessafioD02.py" beforeDir="false" afterPath="$PROJECT_DIR$/DesafiosDonah/DessafioD02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio027.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio027.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio033.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio033.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject1" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,56 +55,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ConversorMoedas.executor": "Debug",
-    "Python.Desaafio020.executor": "Debug",
-    "Python.Desafio011.executor": "Run",
-    "Python.Desafio012.executor": "Run",
-    "Python.Desafio013.executor": "Debug",
-    "Python.Desafio014.executor": "Debug",
-    "Python.Desafio015.executor": "Debug",
-    "Python.Desafio016.executor": "Debug",
-    "Python.Desafio017.executor": "Debug",
-    "Python.Desafio018.executor": "Debug",
-    "Python.Desafio019.executor": "Debug",
-    "Python.Desafio02.executor": "Run",
-    "Python.Desafio021.executor": "Debug",
-    "Python.Desafio022.executor": "Debug",
-    "Python.Desafio023.executor": "Debug",
-    "Python.Desafio024.executor": "Debug",
-    "Python.Desafio025.executor": "Run",
-    "Python.Desafio026.executor": "Debug",
-    "Python.Desafio027.executor": "Debug",
-    "Python.Desafio028.executor": "Debug",
-    "Python.Desafio03.executor": "Debug",
-    "Python.Desafio031.executor": "Debug",
-    "Python.Desafio032.executor": "Debug",
-    "Python.Desafio033.executor": "Debug",
-    "Python.Desafio04.executor": "Run",
-    "Python.Desafio05.executor": "Debug",
-    "Python.Desafio06.executor": "Debug",
-    "Python.Desafio07.executor": "Debug",
-    "Python.Desafio09.executor": "Debug",
-    "Python.Desafio29.executor": "Debug",
-    "Python.Desafio30.executor": "Debug",
-    "Python.Desafio8.executor": "Debug",
-    "Python.DessafioD02.executor": "Debug",
-    "Python.Tabuada.executor": "Debug",
-    "Python.aula06a.executor": "Debug",
-    "Python.aula06b.executor": "Debug",
-    "Python.aula07a.executor": "Debug",
-    "Python.aula08a.executor": "Debug",
-    "Python.aula09a.executor": "Debug",
-    "Python.aula10a.executor": "Run",
-    "Python.exe000.executor": "Run",
-    "Python.exe002.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Exercicios",
-    "last_opened_file_path": "C:/Users/Deivison/PycharmProjects/CursoEmVideo/Exercicios",
-    "settings.editor.selected.configurable": "configurable.group.language"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ConversorMoedas.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desaafio020.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio011.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio012.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio013.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio014.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio015.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio016.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio017.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio018.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio019.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio021.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio022.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio023.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio024.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio025.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio026.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio027.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio028.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio03.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio031.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio032.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio033.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Desafio05.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio06.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio07.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio09.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio29.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio30.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Desafio8.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.DessafioD02.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Tabuada.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula06b.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula07a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula08a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula09a.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.aula10a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exe002.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Exercicios&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Deivison/PycharmProjects/CursoEmVideo/Exercicios&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Deivison\PycharmProjects\CursoEmVideo\Exercicios" />
