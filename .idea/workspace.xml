@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="atualização desafios">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Desafio034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Dessafio035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject1" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1" afterDir="false" />
     </list>
@@ -90,6 +90,7 @@
     "Python.Desafio29.executor": "Debug",
     "Python.Desafio30.executor": "Debug",
     "Python.Desafio8.executor": "Debug",
+    "Python.Dessafio035.executor": "Debug",
     "Python.DessafioD02.executor": "Debug",
     "Python.Tabuada.executor": "Debug",
     "Python.aula06a.executor": "Debug",
@@ -111,7 +112,7 @@
       <recent name="C:\Users\Deivison\PycharmProjects\CursoEmVideo\Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Desafio034">
+  <component name="RunManager" selected="Python.Dessafio035">
     <configuration name="Desafio031" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
@@ -200,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Desafio30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Dessafio035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,7 +214,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Dessafio035.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Dessafio035" />
         <item itemvalue="Python.Desafio034" />
         <item itemvalue="Python.Desafio033" />
         <item itemvalue="Python.Desafio032" />
         <item itemvalue="Python.Desafio031" />
-        <item itemvalue="Python.Desafio30" />
       </list>
     </recent_temporary>
   </component>
