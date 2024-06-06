@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="207ce3db-a4b9-4ce5-b304-c626200bc0c0" name="Changes" comment="atualização desafios">
-      <change afterPath="$PROJECT_DIR$/Exercicios/Dessafio035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestesAulas/aula12a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio29.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Desafio30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Desafio030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../pythonProject1" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject1" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +101,7 @@
     "Python.aula08a.executor": "Debug",
     "Python.aula09a.executor": "Debug",
     "Python.aula10a.executor": "Run",
+    "Python.aula12a.executor": "Debug",
     "Python.exe000.executor": "Run",
     "Python.exe002.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -112,29 +115,7 @@
       <recent name="C:\Users\Deivison\PycharmProjects\CursoEmVideo\Exercicios" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dessafio035">
-    <configuration name="Desafio031" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CursoEmVideo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Desafio031.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.aula12a">
     <configuration name="Desafio032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CursoEmVideo" />
       <option name="ENV_FILES" value="" />
@@ -223,13 +204,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="aula12a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoEmVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestesAulas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestesAulas/aula12a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.aula12a" />
         <item itemvalue="Python.Dessafio035" />
         <item itemvalue="Python.Desafio034" />
         <item itemvalue="Python.Desafio033" />
         <item itemvalue="Python.Desafio032" />
-        <item itemvalue="Python.Desafio031" />
       </list>
     </recent_temporary>
   </component>
